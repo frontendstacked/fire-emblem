@@ -1,0 +1,36 @@
+{
+  "name": "fire-emblem",
+  "description": "Player Guides for Fire Emblem on Nintendo 3DS",
+  "main": "app.js",
+  "authors": [
+    "Matthew Dodson"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Fire",
+    "Emblem",
+    "Awakening",
+    "Weapons",
+    "Characters",
+    "SpotPass",
+    "Nintendo",
+    "3DS"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "gamer.frontendstacked.com/fire-emblem",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "modernizr": "~3.1.0",
+    "foundation": "~5.5.3"
+  }
+}

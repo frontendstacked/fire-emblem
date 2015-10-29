@@ -1,0 +1,1565 @@
+
+series: [
+    
+        {
+            "id": "1",
+            "name": "Shadow Dragon"
+        },
+        {
+            "id": "2",
+            "name": "Gaiden"
+        },
+        {
+            "id": "3",
+            "name": "Mystery of the Emblem"
+        },
+        {
+            "id": "4",
+            "name": "Genealogy of the Holy War: G1"
+        },
+        {
+            "id": "5",
+            "name": "Genealogy of the Holy War: G2"
+        },
+        {
+            "id": "6",
+            "name": "Thracia 776"
+        },
+        {
+            "id": "7",
+            "name": "Binding Blade"
+        },
+        {
+            "id": "8",
+            "name": "Fire Emblem"
+        },
+        {
+            "id": "9",
+            "name": "Sacred Stones"
+        },
+        {
+            "id": "10",
+            "name": "Path of Radiance"
+        },
+        {
+            "id": "11",
+            "name": "Radiant Dawn"
+        },
+        {
+            "id": "12",
+            "name": "Other"
+        }
+],
+owners: [
+    
+        {
+            "id": "1",
+            "name": "Alm"
+        },
+        {
+            "id": "2",
+            "name": "Altena"
+        },
+        {
+            "id": "3",
+            "name": "Amelia"
+        },
+        {
+            "id": "4",
+            "name": "Arden"
+        },
+        {
+            "id": "5",
+            "name": "Ares"
+        },
+        {
+            "id": "6",
+            "name": "Arthur"
+        },
+        {
+            "id": "7",
+            "name": "Arvis"
+        },
+        {
+            "id": "8",
+            "name": "Ashnard"
+        },
+        {
+            "id": "9",
+            "name": "Athena"
+        },
+        {
+            "id": "10",
+            "name": "Ayra"
+        },
+        {
+            "id": "11",
+            "name": "Black Knight"
+        },
+        {
+            "id": "12",
+            "name": "Boey"
+        },
+        {
+            "id": "13",
+            "name": "Brom"
+        },
+        {
+            "id": "14",
+            "name": "Caeda"
+        },
+        {
+            "id": "15",
+            "name": "Camus"
+        },
+        {
+            "id": "16",
+            "name": "Catria"
+        },
+        {
+            "id": "17",
+            "name": "Cecilia"
+        },
+        {
+            "id": "18",
+            "name": "Ced"
+        },
+        {
+            "id": "19",
+            "name": "Celica"
+        },
+        {
+            "id": "20",
+            "name": "Clair"
+        },
+        {
+            "id": "21",
+            "name": "Clive"
+        },
+        {
+            "id": "22",
+            "name": "Dagdar"
+        },
+        {
+            "id": "23",
+            "name": "Deen"
+        },
+        {
+            "id": "24",
+            "name": "Deirdre"
+        },
+        {
+            "id": "25",
+            "name": "Edward"
+        },
+        {
+            "id": "26",
+            "name": "Eirika"
+        },
+        {
+            "id": "27",
+            "name": "Elincia"
+        },
+        {
+            "id": "28",
+            "name": "Eliwood"
+        },
+        {
+            "id": "29",
+            "name": "Ephraim"
+        },
+        {
+            "id": "30",
+            "name": "Ethlyn"
+        },
+        {
+            "id": "31",
+            "name": "Etzel"
+        },
+        {
+            "id": "32",
+            "name": "Eyvel"
+        },
+        {
+            "id": "33",
+            "name": "Fee"
+        },
+        {
+            "id": "34",
+            "name": "Finn"
+        },
+        {
+            "id": "35",
+            "name": "Florina"
+        },
+        {
+            "id": "36",
+            "name": "Geoffrey"
+        },
+        {
+            "id": "37",
+            "name": "Gharnef"
+        },
+        {
+            "id": "38",
+            "name": "Hardin"
+        },
+        {
+            "id": "39",
+            "name": "Hector"
+        },
+        {
+            "id": "40",
+            "name": "Horace"
+        },
+        {
+            "id": "41",
+            "name": "Ike"
+        },
+        {
+            "id": "42",
+            "name": "Innes"
+        },
+        {
+            "id": "43",
+            "name": "Ishtar"
+        },
+        {
+            "id": "44",
+            "name": "Jaffar"
+        },
+        {
+            "id": "45",
+            "name": "Jamke"
+        },
+        {
+            "id": "46",
+            "name": "Julia"
+        },
+        {
+            "id": "47",
+            "name": "Julius"
+        },
+        {
+            "id": "48",
+            "name": "Karel"
+        },
+        {
+            "id": "49",
+            "name": "Katarina"
+        },
+        {
+            "id": "50",
+            "name": "King Marth"
+        },
+        {
+            "id": "51",
+            "name": "L'Arachel"
+        },
+        {
+            "id": "52",
+            "name": "Larcei"
+        },
+        {
+            "id": "53",
+            "name": "Legion"
+        },
+        {
+            "id": "54",
+            "name": "Leif"
+        },
+        {
+            "id": "55",
+            "name": "Leonardo"
+        },
+        {
+            "id": "56",
+            "name": "Lewyn"
+        },
+        {
+            "id": "57",
+            "name": "Lilina"
+        },
+        {
+            "id": "58",
+            "name": "Linde"
+        },
+        {
+            "id": "59",
+            "name": "Linus"
+        },
+        {
+            "id": "60",
+            "name": "Lloyd"
+        },
+        {
+            "id": "61",
+            "name": "Lucia"
+        },
+        {
+            "id": "62",
+            "name": "Lugh"
+        },
+        {
+            "id": "63",
+            "name": "Lute"
+        },
+        {
+            "id": "64",
+            "name": "Luthier"
+        },
+        {
+            "id": "65",
+            "name": "Lyn"
+        },
+        {
+            "id": "66",
+            "name": "Lyon"
+        },
+        {
+            "id": "67",
+            "name": "Malice"
+        },
+        {
+            "id": "68",
+            "name": "Mareeta"
+        },
+        {
+            "id": "69",
+            "name": "Marisa"
+        },
+        {
+            "id": "70",
+            "name": "Matthew"
+        },
+        {
+            "id": "71",
+            "name": "Merric"
+        },
+        {
+            "id": "72",
+            "name": "Mia"
+        },
+        {
+            "id": "73",
+            "name": "Micaiah"
+        },
+        {
+            "id": "74",
+            "name": "Minerva"
+        },
+        {
+            "id": "75",
+            "name": "Mist"
+        },
+        {
+            "id": "76",
+            "name": "Moulder"
+        },
+        {
+            "id": "77",
+            "name": "Mycen"
+        },
+        {
+            "id": "78",
+            "name": "Nanna"
+        },
+        {
+            "id": "79",
+            "name": "Narcian"
+        },
+        {
+            "id": "80",
+            "name": "Navarre"
+        },
+        {
+            "id": "81",
+            "name": "Nephenee"
+        },
+        {
+            "id": "82",
+            "name": "Nergal"
+        },
+        {
+            "id": "83",
+            "name": "Nino"
+        },
+        {
+            "id": "84",
+            "name": "Nomah"
+        },
+        {
+            "id": "85",
+            "name": "Norne"
+        },
+        {
+            "id": "86",
+            "name": "Nyna"
+        },
+        {
+            "id": "87",
+            "name": "Ogma"
+        },
+        {
+            "id": "88",
+            "name": "Oliver"
+        },
+        {
+            "id": "89",
+            "name": "Olwen"
+        },
+        {
+            "id": "90",
+            "name": "Perceval"
+        },
+        {
+            "id": "91",
+            "name": "Petrine"
+        },
+        {
+            "id": "92",
+            "name": "Pr. Marth"
+        },
+        {
+            "id": "93",
+            "name": "Quan"
+        },
+        {
+            "id": "94",
+            "name": "Raigh"
+        },
+        {
+            "id": "95",
+            "name": "Raquesis"
+        },
+        {
+            "id": "96",
+            "name": "Raydrik"
+        },
+        {
+            "id": "97",
+            "name": "Roy"
+        },
+        {
+            "id": "98",
+            "name": "Saias"
+        },
+        {
+            "id": "99",
+            "name": "Salem"
+        },
+        {
+            "id": "100",
+            "name": "Sanaki"
+        },
+        {
+            "id": "101",
+            "name": "Selena"
+        },
+        {
+            "id": "102",
+            "name": "Seliph"
+        },
+        {
+            "id": "103",
+            "name": "Sephiran"
+        },
+        {
+            "id": "104",
+            "name": "Serra"
+        },
+        {
+            "id": "105",
+            "name": "Seth"
+        },
+        {
+            "id": "106",
+            "name": "Shanna"
+        },
+        {
+            "id": "107",
+            "name": "Sigrun"
+        },
+        {
+            "id": "108",
+            "name": "Sigurd"
+        },
+        {
+            "id": "109",
+            "name": "Sophia"
+        },
+        {
+            "id": "110",
+            "name": "Soren"
+        },
+        {
+            "id": "111",
+            "name": "Sothe"
+        },
+        {
+            "id": "112",
+            "name": "Tiki"
+        },
+        {
+            "id": "113",
+            "name": "Titania"
+        },
+        {
+            "id": "114",
+            "name": "Travant"
+        },
+        {
+            "id": "115",
+            "name": "Ulster"
+        },
+        {
+            "id": "116",
+            "name": "Ursula"
+        },
+        {
+            "id": "117",
+            "name": "Valbar"
+        },
+        {
+            "id": "118",
+            "name": "Wolt"
+        },
+        {
+            "id": "119",
+            "name": "Zephiel"
+        },
+        {
+            "id": "120",
+            "name": "Zihark"
+        }
+],
+weapons: [
+    
+        {
+            "id": "1",
+            "name": "Alm's Blade",
+            "class": "1",
+            "rank": "B",
+            "might": "15",
+            "hit": "75",
+            "critical": "10",
+            "range": "1",
+            "uses": "10",
+            "price": "1630",
+            "effects": "None"
+        },
+        {
+            "id": "2",
+            "name": "Arcfire",
+            "class": "4",
+            "rank": "C",
+            "might": "8",
+            "hit": "80",
+            "critical": "0",
+            "range": "1-2",
+            "uses": "30",
+            "price": "1440",
+            "effects": "None"
+        },
+        {
+            "id": "3",
+            "name": "Arcthunder",
+            "class": "4",
+            "rank": "C",
+            "might": "10",
+            "hit": "70",
+            "critical": "10",
+            "range": "1-2",
+            "uses": "30",
+            "price": "1620",
+            "effects": "None"
+        },
+        {
+            "id": "4",
+            "name": "Arcwind",
+            "class": "4",
+            "rank": "C",
+            "might": "6",
+            "hit": "90",
+            "critical": "0",
+            "range": "1-2",
+            "uses": "30",
+            "price": "1320",
+            "effects": "Effective against flying units."
+        },
+        {
+            "id": "5",
+            "name": "Armorslayer",
+            "class": "1",
+            "rank": "D",
+            "might": "8",
+            "hit": "80",
+            "critical": "0",
+            "range": "1",
+            "uses": "25",
+            "price": "1450",
+            "effects": "Effective against armored units."
+        },
+        {
+            "id": "6",
+            "name": "Beast Killer",
+            "class": "2",
+            "rank": "D",
+            "might": "9",
+            "hit": "70",
+            "critical": "0",
+            "range": "1",
+            "uses": "25",
+            "price": "1650",
+            "effects": "Effective against beasts and riders."
+        },
+        {
+            "id": "7",
+            "name": "Blessed Bow",
+            "class": "5",
+            "rank": "C",
+            "might": "11",
+            "hit": "70",
+            "critical": "0",
+            "range": "2",
+            "uses": "35",
+            "price": "1540",
+            "effects": "Restores 10 HP every turn, effective against flying units and revenants/entombed."
+        },
+        {
+            "id": "8",
+            "name": "Blessed Lance",
+            "class": "2",
+            "rank": "C",
+            "might": "11",
+            "hit": "70",
+            "critical": "0",
+            "range": "1",
+            "uses": "35",
+            "price": "1540",
+            "effects": "Restores 10 HP every turn, effective against revenants/entombed."
+        },
+        {
+            "id": "9",
+            "name": "Bolganone",
+            "class": "4",
+            "rank": "B",
+            "might": "12",
+            "hit": "75",
+            "critical": "0",
+            "range": "1-2",
+            "uses": "25",
+            "price": "2000",
+            "effects": "None"
+        },
+        {
+            "id": "10",
+            "name": "Bolt Axe",
+            "class": "3",
+            "rank": "B",
+            "might": "14",
+            "hit": "70",
+            "critical": "5",
+            "range": "1-2",
+            "uses": "30",
+            "price": "1920",
+            "effects": "Deals magical damage based on Mag."
+        },
+        {
+            "id": "11",
+            "name": "Brave Axe",
+            "class": "3",
+            "rank": "A",
+            "might": "12",
+            "hit": "60",
+            "critical": "0",
+            "range": "1",
+            "uses": "30",
+            "price": "2400",
+            "effects": "Allows the wielder to strike twice."
+        },
+        {
+            "id": "12",
+            "name": "Brave Bow",
+            "class": "5",
+            "rank": "A",
+            "might": "10",
+            "hit": "70",
+            "critical": "0",
+            "range": "2",
+            "uses": "30",
+            "price": "2220",
+            "effects": "Allows the wielder to strike twice, effective against flying units."
+        },
+        {
+            "id": "13",
+            "name": "Brave Lance",
+            "class": "2",
+            "rank": "A",
+            "might": "10",
+            "hit": "70",
+            "critical": "0",
+            "range": "1",
+            "uses": "30",
+            "price": "2220",
+            "effects": "Allows the wielder to strike twice."
+        },
+        {
+            "id": "14",
+            "name": "Brave Sword",
+            "class": "1",
+            "rank": "A",
+            "might": "9",
+            "hit": "80",
+            "critical": "0",
+            "range": "1",
+            "uses": "30",
+            "price": "2100",
+            "effects": "Allows the wielder to strike twice."
+        },
+        {
+            "id": "15",
+            "name": "Bronze Axe",
+            "class": "3",
+            "rank": "E",
+            "might": "4",
+            "hit": "80",
+            "critical": "0",
+            "range": "1",
+            "uses": "50",
+            "price": "400",
+            "effects": "None"
+        },
+        {
+            "id": "16",
+            "name": "Bronze Lance",
+            "class": "2",
+            "rank": "E",
+            "might": "3",
+            "hit": "90",
+            "critical": "0",
+            "range": "1",
+            "uses": "50",
+            "price": "350",
+            "effects": "None"
+        },
+        {
+            "id": "17",
+            "name": "Bronze Sword",
+            "class": "1",
+            "rank": "E",
+            "might": "3",
+            "hit": "100",
+            "critical": "0",
+            "range": "1",
+            "uses": "50",
+            "price": "350",
+            "effects": "None"
+        },
+        {
+            "id": "18",
+            "name": "Celica's Gale",
+            "class": "4",
+            "rank": "C",
+            "might": "4",
+            "hit": "80",
+            "critical": "5",
+            "range": "1-2",
+            "uses": "20",
+            "price": "1720",
+            "effects": "Allows the wielder to strike twice, effective against flying units."
+        },
+        {
+            "id": "19",
+            "name": "Dragonstone+",
+            "class": "7",
+            "rank": "-",
+            "might": "12",
+            "hit": "70",
+            "critical": "0",
+            "range": "1-2",
+            "uses": "35",
+            "price": "3780",
+            "effects": "Str +11, Mag +6, Skill +5, Spd +4, Def +13, Res +9"
+        },
+        {
+            "id": "20",
+            "name": "Eirika's Blade",
+            "class": "1",
+            "rank": "C",
+            "might": "6",
+            "hit": "95",
+            "critical": "10",
+            "range": "1",
+            "uses": "20",
+            "price": "1220",
+            "effects": "Allows the wielder to strike twice."
+        },
+        {
+            "id": "21",
+            "name": "Elfire",
+            "class": "4",
+            "rank": "D",
+            "might": "5",
+            "hit": "85",
+            "critical": "0",
+            "range": "1-2",
+            "uses": "35",
+            "price": "980",
+            "effects": "None"
+        },
+        {
+            "id": "22",
+            "name": "Eliwood's Blade",
+            "class": "1",
+            "rank": "C",
+            "might": "10",
+            "hit": "85",
+            "critical": "5",
+            "range": "1",
+            "uses": "20",
+            "price": "960",
+            "effects": "None"
+        },
+        {
+            "id": "23",
+            "name": "Elthunder",
+            "class": "4",
+            "rank": "D",
+            "might": "6",
+            "hit": "75",
+            "critical": "5",
+            "range": "1-2",
+            "uses": "35",
+            "price": "1050",
+            "effects": "None"
+        },
+        {
+            "id": "24",
+            "name": "Elwind",
+            "class": "4",
+            "rank": "D",
+            "might": "4",
+            "hit": "95",
+            "critical": "0",
+            "range": "1-2",
+            "uses": "35",
+            "price": "910",
+            "effects": "Effective against flying units."
+        },
+        {
+            "id": "25",
+            "name": "Ephraim's Lance",
+            "class": "2",
+            "rank": "A",
+            "might": "11",
+            "hit": "80",
+            "critical": "10",
+            "range": "1",
+            "uses": "20",
+            "price": "1220",
+            "effects": "Str/Spd +2"
+        },
+        {
+            "id": "26",
+            "name": "Finn's Lance",
+            "class": "2",
+            "rank": "D",
+            "might": "8",
+            "hit": "85",
+            "critical": "10",
+            "range": "1",
+            "uses": "25",
+            "price": "950",
+            "effects": "Lck/Def +2"
+        },
+        {
+            "id": "27",
+            "name": "Fire",
+            "class": "4",
+            "rank": "E",
+            "might": "2",
+            "hit": "90",
+            "critical": "0",
+            "range": "1-2",
+            "uses": "45",
+            "price": "540",
+            "effects": "None"
+        },
+        {
+            "id": "28",
+            "name": "Flux",
+            "class": "4",
+            "rank": "E",
+            "might": "5",
+            "hit": "70",
+            "critical": "0",
+            "range": "1-2",
+            "uses": "45",
+            "price": "540",
+            "effects": "Dark magic."
+        },
+        {
+            "id": "29",
+            "name": "Fortify",
+            "class": "6",
+            "rank": "A",
+            "might": "NULL",
+            "hit": "NULL",
+            "critical": "NULL",
+            "range": "1-Mag/2",
+            "uses": "5",
+            "price": "2500",
+            "effects": "Restores the HP of all allies in range."
+        },
+        {
+            "id": "30",
+            "name": "Hammer",
+            "class": "3",
+            "rank": "D",
+            "might": "10",
+            "hit": "60",
+            "critical": "0",
+            "range": "1",
+            "uses": "25",
+            "price": "1850",
+            "effects": "Effective against armored units."
+        },
+        {
+            "id": "31",
+            "name": "Hand Axe",
+            "class": "3",
+            "rank": "D",
+            "might": "3",
+            "hit": "70",
+            "critical": "0",
+            "range": "1-2",
+            "uses": "25",
+            "price": "750",
+            "effects": "None"
+        },
+        {
+            "id": "32",
+            "name": "Heal",
+            "class": "6",
+            "rank": "E",
+            "might": "NULL",
+            "hit": "NULL",
+            "critical": "NULL",
+            "range": "1",
+            "uses": "30",
+            "price": "600",
+            "effects": "Restores an adjacent ally's HP."
+        },
+        {
+            "id": "33",
+            "name": "Hector's Axe",
+            "class": "3",
+            "rank": "B",
+            "might": "15",
+            "hit": "75",
+            "critical": "15",
+            "range": "1",
+            "uses": "15",
+            "price": "2010",
+            "effects": "Str/Def +2"
+        },
+        {
+            "id": "34",
+            "name": "Imposing Axe",
+            "class": "3",
+            "rank": "D",
+            "might": "14",
+            "hit": "35",
+            "critical": "10",
+            "range": "1",
+            "uses": "10",
+            "price": "830",
+            "effects": "None"
+        },
+        {
+            "id": "35",
+            "name": "Innes' Bow",
+            "class": "5",
+            "rank": "B",
+            "might": "13",
+            "hit": "115",
+            "critical": "10",
+            "range": "2",
+            "uses": "15",
+            "price": "1710",
+            "effects": "Effective against flying units."
+        },
+        {
+            "id": "36",
+            "name": "Iron Axe",
+            "class": "3",
+            "rank": "D",
+            "might": "7",
+            "hit": "75",
+            "critical": "0",
+            "range": "1",
+            "uses": "40",
+            "price": "600",
+            "effects": "None"
+        },
+        {
+            "id": "37",
+            "name": "Iron Bow",
+            "class": "5",
+            "rank": "D",
+            "might": "6",
+            "hit": "85",
+            "critical": "0",
+            "range": "2",
+            "uses": "40",
+            "price": "560",
+            "effects": "Effective against flying units."
+        },
+        {
+            "id": "38",
+            "name": "Iron Lance",
+            "class": "2",
+            "rank": "D",
+            "might": "6",
+            "hit": "85",
+            "critical": "0",
+            "range": "1",
+            "uses": "40",
+            "price": "560",
+            "effects": "None"
+        },
+        {
+            "id": "39",
+            "name": "Iron Sword",
+            "class": "1",
+            "rank": "D",
+            "might": "5",
+            "hit": "95",
+            "critical": "0",
+            "range": "1",
+            "uses": "40",
+            "price": "520",
+            "effects": "None"
+        },
+        {
+            "id": "40",
+            "name": "Javelin",
+            "class": "2",
+            "rank": "D",
+            "might": "2",
+            "hit": "80",
+            "critical": "0",
+            "range": "1",
+            "uses": "25",
+            "price": "700",
+            "effects": "None"
+        },
+        {
+            "id": "41",
+            "name": "Katarina's Bolt",
+            "class": "4",
+            "rank": "C",
+            "might": "11",
+            "hit": "75",
+            "critical": "30",
+            "range": "1-2",
+            "uses": "20",
+            "price": "1920",
+            "effects": "None"
+        },
+        {
+            "id": "42",
+            "name": "Killer Axe",
+            "class": "3",
+            "rank": "C",
+            "might": "12",
+            "hit": "70",
+            "critical": "30",
+            "range": "1",
+            "uses": "30",
+            "price": "1860",
+            "effects": "None"
+        },
+        {
+            "id": "43",
+            "name": "Killer Bow",
+            "class": "5",
+            "rank": "C",
+            "might": "10",
+            "hit": "80",
+            "critical": "30",
+            "range": "2",
+            "uses": "30",
+            "price": "1680",
+            "effects": "Effective against flying units."
+        },
+        {
+            "id": "44",
+            "name": "Killer Lance",
+            "class": "2",
+            "rank": "C",
+            "might": "10",
+            "hit": "80",
+            "critical": "30",
+            "range": "1",
+            "uses": "30",
+            "price": "1680",
+            "effects": "None"
+        },
+        {
+            "id": "45",
+            "name": "Killing Edge",
+            "class": "1",
+            "rank": "C",
+            "might": "9",
+            "hit": "90",
+            "critical": "30",
+            "range": "1",
+            "uses": "30",
+            "price": "1470",
+            "effects": "None"
+        },
+        {
+            "id": "46",
+            "name": "Leif's Blade",
+            "class": "1",
+            "rank": "D",
+            "might": "4",
+            "hit": "95",
+            "critical": "30",
+            "range": "1",
+            "uses": "20",
+            "price": "820",
+            "effects": "Can obtain Bullion (S) from a defeated enemy on player phase, Lck% chance."
+        },
+        {
+            "id": "47",
+            "name": "Levin Sword",
+            "class": "1",
+            "rank": "C",
+            "might": "10",
+            "hit": "80",
+            "critical": "0",
+            "range": "1-2",
+            "uses": "25",
+            "price": "1600",
+            "effects": "Deals magical damage based on Mag."
+        },
+        {
+            "id": "48",
+            "name": "Longbow",
+            "class": "5",
+            "rank": "C",
+            "might": "9",
+            "hit": "70",
+            "critical": "0",
+            "range": "2-3",
+            "uses": "25",
+            "price": "2150",
+            "effects": "Archer/Sniper only, effective against flying units."
+        },
+        {
+            "id": "49",
+            "name": "Mend",
+            "class": "6",
+            "rank": "D",
+            "might": "NULL",
+            "hit": "NULL",
+            "critical": "NULL",
+            "range": "1",
+            "uses": "20",
+            "price": "1000",
+            "effects": "Greatly restores an adjacent ally's HP."
+        },
+        {
+            "id": "50",
+            "name": "Micaiah's Pyre",
+            "class": "4",
+            "rank": "B",
+            "might": "13",
+            "hit": "85",
+            "critical": "5",
+            "range": "1-2",
+            "uses": "15",
+            "price": "2130",
+            "effects": "Def/Res +2"
+        },
+        {
+            "id": "51",
+            "name": "Mire",
+            "class": "4",
+            "rank": "C",
+            "might": "10",
+            "hit": "65",
+            "critical": "0",
+            "range": "3-10",
+            "uses": "10",
+            "price": "2000",
+            "effects": "Dark magic. Cannot strike twice or get dual strikes as the lead attacker."
+        },
+        {
+            "id": "52",
+            "name": "Noble Rapier",
+            "class": "1",
+            "rank": "B",
+            "might": "8",
+            "hit": "85",
+            "critical": "10",
+            "range": "1",
+            "uses": "25",
+            "price": "2100",
+            "effects": "Effective against beasts/riders/armored units."
+        },
+        {
+            "id": "53",
+            "name": "Nosferatu",
+            "class": "4",
+            "rank": "D",
+            "might": "7",
+            "hit": "65",
+            "critical": "0",
+            "range": "1-2",
+            "uses": "20",
+            "price": "980",
+            "effects": "Dark magic. Absorbs HP equal to half the damage dealt."
+        },
+        {
+            "id": "54",
+            "name": "Physic",
+            "class": "6",
+            "rank": "C",
+            "might": "NULL",
+            "hit": "NULL",
+            "critical": "NULL",
+            "range": "1-Mag/2",
+            "uses": "10",
+            "price": "1800",
+            "effects": "Restores a distant ally's HP."
+        },
+        {
+            "id": "55",
+            "name": "Recover",
+            "class": "6",
+            "rank": "B",
+            "might": "NULL",
+            "hit": "NULL",
+            "critical": "NULL",
+            "range": "1",
+            "uses": "15",
+            "price": "1950",
+            "effects": "Fully restores an adjacent ally's HP."
+        },
+        {
+            "id": "56",
+            "name": "Rexcalibur",
+            "class": "4",
+            "rank": "B",
+            "might": "10",
+            "hit": "85",
+            "critical": "0",
+            "range": "1-2",
+            "uses": "25",
+            "price": "1900",
+            "effects": "Effective against flying units."
+        },
+        {
+            "id": "57",
+            "name": "Roy's Blade",
+            "class": "1",
+            "rank": "D",
+            "might": "8",
+            "hit": "95",
+            "critical": "5",
+            "range": "1",
+            "uses": "25",
+            "price": "900",
+            "effects": "None"
+        },
+        {
+            "id": "58",
+            "name": "Ruin",
+            "class": "4",
+            "rank": "C",
+            "might": "4",
+            "hit": "60",
+            "critical": "50",
+            "range": "1-2",
+            "uses": "20",
+            "price": "1380",
+            "effects": "Dark magic."
+        },
+        {
+            "id": "59",
+            "name": "Seliph's Blade",
+            "class": "1",
+            "rank": "B",
+            "might": "12",
+            "hit": "90",
+            "critical": "15",
+            "range": "1",
+            "uses": "15",
+            "price": "1530",
+            "effects": "Spd/Res +2"
+        },
+        {
+            "id": "60",
+            "name": "Short Axe",
+            "class": "3",
+            "rank": "C",
+            "might": "7",
+            "hit": "65",
+            "critical": "0",
+            "range": "1-2",
+            "uses": "25",
+            "price": "1750",
+            "effects": "None"
+        },
+        {
+            "id": "61",
+            "name": "Short Spear",
+            "class": "2",
+            "rank": "C",
+            "might": "5",
+            "hit": "75",
+            "critical": "0",
+            "range": "1-2",
+            "uses": "25",
+            "price": "1600",
+            "effects": "None"
+        },
+        {
+            "id": "62",
+            "name": "Sigurd's Lance",
+            "class": "2",
+            "rank": "B",
+            "might": "14",
+            "hit": "85",
+            "critical": "15",
+            "range": "1",
+            "uses": "15",
+            "price": "1920",
+            "effects": "None"
+        },
+        {
+            "id": "63",
+            "name": "Silver Axe",
+            "class": "3",
+            "rank": "B",
+            "might": "15",
+            "hit": "65",
+            "critical": "0",
+            "range": "1",
+            "uses": "30",
+            "price": "1740",
+            "effects": "None"
+        },
+        {
+            "id": "64",
+            "name": "Silver Bow",
+            "class": "5",
+            "rank": "B",
+            "might": "13",
+            "hit": "75",
+            "critical": "0",
+            "range": "2",
+            "uses": "30",
+            "price": "1560",
+            "effects": "Effective against flying units."
+        },
+        {
+            "id": "65",
+            "name": "Silver Lance",
+            "class": "2",
+            "rank": "B",
+            "might": "13",
+            "hit": "75",
+            "critical": "0",
+            "range": "1",
+            "uses": "30",
+            "price": "1560",
+            "effects": "None"
+        },
+        {
+            "id": "66",
+            "name": "Silver Sword",
+            "class": "1",
+            "rank": "B",
+            "might": "11",
+            "hit": "85",
+            "critical": "0",
+            "range": "1",
+            "uses": "30",
+            "price": "1410",
+            "effects": "None"
+        },
+        {
+            "id": "67",
+            "name": "Spear",
+            "class": "2",
+            "rank": "B",
+            "might": "8",
+            "hit": "70",
+            "critical": "0",
+            "range": "1-2",
+            "uses": "25",
+            "price": "2400",
+            "effects": "None"
+        },
+        {
+            "id": "68",
+            "name": "Steel Axe",
+            "class": "3",
+            "rank": "C",
+            "might": "11",
+            "hit": "70",
+            "critical": "0",
+            "range": "1",
+            "uses": "35",
+            "price": "980",
+            "effects": "None"
+        },
+        {
+            "id": "69",
+            "name": "Steel Bow",
+            "class": "5",
+            "rank": "C",
+            "might": "9",
+            "hit": "80",
+            "critical": "0",
+            "range": "2",
+            "uses": "35",
+            "price": "910",
+            "effects": "Effective against flying units."
+        },
+        {
+            "id": "70",
+            "name": "Steel Lance",
+            "class": "2",
+            "rank": "C",
+            "might": "9",
+            "hit": "80",
+            "critical": "0",
+            "range": "1",
+            "uses": "35",
+            "price": "910",
+            "effects": "None"
+        },
+        {
+            "id": "71",
+            "name": "Steel Sword",
+            "class": "1",
+            "rank": "C",
+            "might": "8",
+            "hit": "90",
+            "critical": "0",
+            "range": "1",
+            "uses": "35",
+            "price": "840",
+            "effects": "None"
+        },
+        {
+            "id": "72",
+            "name": "Thoron",
+            "class": "4",
+            "rank": "B",
+            "might": "14",
+            "hit": "65",
+            "critical": "10",
+            "range": "1-2",
+            "uses": "25",
+            "price": "2200",
+            "effects": "None"
+        },
+        {
+            "id": "73",
+            "name": "Thunder",
+            "class": "4",
+            "rank": "E",
+            "might": "3",
+            "hit": "80",
+            "critical": "5",
+            "range": "1-2",
+            "uses": "45",
+            "price": "630",
+            "effects": "None"
+        },
+        {
+            "id": "74",
+            "name": "Titania's Axe",
+            "class": "3",
+            "rank": "C",
+            "might": "12",
+            "hit": "80",
+            "critical": "10",
+            "range": "1",
+            "uses": "20",
+            "price": "1320",
+            "effects": "Hit/Avo +10 when under attack."
+        },
+        {
+            "id": "75",
+            "name": "Tomahawk",
+            "class": "3",
+            "rank": "B",
+            "might": "10",
+            "hit": "60",
+            "critical": "0",
+            "range": "1-2",
+            "uses": "25",
+            "price": "2550",
+            "effects": "None"
+        },
+        {
+            "id": "76",
+            "name": "Waste",
+            "class": "4",
+            "rank": "B",
+            "might": "10",
+            "hit": "45",
+            "critical": "0",
+            "range": "1-2",
+            "uses": "30",
+            "price": "2160",
+            "effects": "Dark magic. Allows the wielder to strike twice."
+        },
+        {
+            "id": "77",
+            "name": "Wind",
+            "class": "4",
+            "rank": "E",
+            "might": "1",
+            "hit": "100",
+            "critical": "0",
+            "range": "1-2",
+            "uses": "45",
+            "price": "450",
+            "effects": "Effective against flying units."
+        },
+        {
+            "id": "78",
+            "name": "Wolt's Bow",
+            "class": "5",
+            "rank": "C",
+            "might": "10",
+            "hit": "85",
+            "critical": "5",
+            "range": "2",
+            "uses": "25",
+            "price": "950",
+            "effects": "Use as item to restore 20 HP."
+        },
+        {
+            "id": "79",
+            "name": "Wyrmslayer",
+            "class": "1",
+            "rank": "D",
+            "might": "8",
+            "hit": "80",
+            "critical": "0",
+            "range": "1",
+            "uses": "25",
+            "price": "1500",
+            "effects": "Effective against dragons."
+        }
+]
