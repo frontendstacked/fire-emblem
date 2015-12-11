@@ -32,6 +32,7 @@
         <xsl:sort select="owner" />
         <xsl:text>  { "key": "</xsl:text><xsl:value-of select="position()" />
         <xsl:text>", "name": "</xsl:text><xsl:value-of select="owner" />
+        <xsl:text>", "series": "</xsl:text><xsl:value-of select="series" />
         <xsl:text>" }</xsl:text>
         <xsl:if test="not(position() = last())">
             <xsl:text>,
@@ -43,6 +44,7 @@
 <xsl:template match="fe_spotpass" mode="weapons">
     <xsl:for-each select="purchaseable/row[count(. | key('weapon', name)[1]) = 1]">
         <xsl:sort select="name" />
+        <xsl:variable name="weapon" select="name" />
         <xsl:text>  { "key": "</xsl:text><xsl:value-of select="position()" />
         <xsl:text>", "name": "</xsl:text><xsl:value-of select="name" />
         <xsl:text>", "class": "</xsl:text><xsl:value-of select="class" />
@@ -54,7 +56,8 @@
         <xsl:text>", "uses": "</xsl:text><xsl:value-of select="uses" />
         <xsl:text>", "price": "</xsl:text><xsl:value-of select="price" />
         <xsl:text>", "effects": "</xsl:text><xsl:value-of select="effects" />
-        <xsl:text>" }</xsl:text>
+        <xsl:text>", "owners": [</xsl:text><xsl:for-each select="/fe_spotpass/purchaseable/row[name=$weapon]">"<xsl:value-of select="owner" />"<xsl:if test="not(position() = last())">,</xsl:if></xsl:for-each>
+        <xsl:text>] }</xsl:text>
         <xsl:if test="not(position() = last())">
             <xsl:text>,
 </xsl:text></xsl:if>
